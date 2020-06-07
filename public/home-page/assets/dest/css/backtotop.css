@@ -1,0 +1,23 @@
+#on_top {
+    display: none;
+}
+a.to_top img.to_top:hover {
+background-color: #67b9da;
+color: #fff;
+border: 1px solid #007bb6;
+opacity:1;
+}
+img.to_top{ 
+    height: 44px;
+    width: 44px;
+}
+a.to_top img.to_top{
+opacity:0.6;
+border-radius: 6px;
+background-color: #67b9da;
+padding: 5px 5px;
+white-space: nowrap; color: #fff;
+position: fixed;
+bottom: 40px;
+right: 10px;
+}

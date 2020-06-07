@@ -1,0 +1,40 @@
+Bảng tài khoản đăng nhập điện hoa với csdl tên dienhoa
+-------------------------------------------------------------
+User với quyền admin tối cao
+admin@gmail.com
+pass: 12345
+-------------------------------------------------------------
+User với quyền nhân viên (Không có quyền quản lý tài khoản)
+new_admin@gmail.com
+pass: 12345
+-------------------------------------------------------------
+User với quyền khách hàng (Sử dụng cùng pass bên dưới)
+email: user_2@gmail.com
+email: user_3@mymail.com
+email: user_4@mymail.com
+email: user_5@mymail.com
+email: user_6@mymail.com
+email: user_7@mymail.com
+email: user_8@mymail.com
+email: user_9@mymail.com
+email: user_10@mymail.com
+pass: 123
+-------------------------------------------------------------
+Các user khách hàng mới được thêm vào 
+email: thu@gmail.com
+pass: 125
+email: user_12@gmail.com
+pass:123
+email: user_14@gmail.com 
+pass:123
+email: user_11@gmail.com
+pass: 123
+email: user_12@gmail.com
+pass: 123
+email: user_15@gmail.com
+pass: 123
+email: user_20@gmail.com
+pass: 123
+email: user_19@gmail.com
+pass: 123
+
